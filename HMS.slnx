@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../HMS.Business/HMS.Business.csproj" Id="24837969-2637-412d-83cf-eb45672449a9" />
+  <Project Path="../HMS.DataAccess/HMS.DataAccess.csproj" Id="dd9cc85c-61c1-483e-96b7-41de58bb935e" />
+  <Project Path="../HMS.DBHelper/HMS.DBHelper.csproj" Id="3d3e2eec-18c6-4c92-b0b8-b545cc700c43" />
+  <Project Path="../HMS.Entities/HMS.Entities.csproj" Id="379a5608-4f8c-4de9-b78a-15efd245051c" />
+  <Project Path="HMS.UI.csproj" Id="0d2dd3de-d2f2-4322-a7d2-f49b9b0242ba" />
+</Solution>
