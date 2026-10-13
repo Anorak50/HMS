@@ -65,7 +65,7 @@ HMS/
 ## Team
 
 - Taslim Sarker
-- Nafis Imtiaz (login and receptionist part)
+- Nafis Imtiaz (login, sign-up and receptionist part)
 - Md. Mahfuzur Rahman
 - Md Korshed Alam
 
